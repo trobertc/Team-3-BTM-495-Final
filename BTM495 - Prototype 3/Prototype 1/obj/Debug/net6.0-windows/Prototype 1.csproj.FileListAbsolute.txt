@@ -1,0 +1,6 @@
+C:\Users\Timothy\source\repos\btm495-Prototype-2-master\Prototype 1\obj\Debug\net6.0-windows\Prototype_1.Form1.resources
+C:\Users\Timothy\source\repos\btm495-Prototype-2-master\Prototype 1\obj\Debug\net6.0-windows\Prototype 1.csproj.GenerateResource.cache
+C:\Users\Timothy\source\repos\btm495-Prototype-2-master\Prototype 1\obj\Debug\net6.0-windows\Prototype 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timothy\source\repos\btm495-Prototype-2-master\Prototype 1\obj\Debug\net6.0-windows\Prototype 1.AssemblyInfoInputs.cache
+C:\Users\Timothy\source\repos\btm495-Prototype-2-master\Prototype 1\obj\Debug\net6.0-windows\Prototype 1.AssemblyInfo.cs
+C:\Users\Timothy\source\repos\btm495-Prototype-2-master\Prototype 1\obj\Debug\net6.0-windows\Prototype 1.csproj.CoreCompileInputs.cache
